@@ -257,12 +257,12 @@
     </div>
   </section>
 
-  <!-- Info Section -->
+  
   <section class="info-section">
     <div class="container">
       <div class="row justify-content-center">
         
-        <!-- Lugar de Nacimiento y Procedencia -->
+        
         <div class="col-lg-10">
           <div class="info-card animate-on-scroll text-center">
             <div class="location-icon">
@@ -294,6 +294,19 @@
             </div>
           </div>
         </div>
+
+        <div class="col-lg-10">
+          <div class="info-card animate-on-scroll text-center">
+            <h3>
+              <i class="fas fa-user-circle me-2"></i>Sobre Mi Niñez
+            </h3>
+            <p>Nací en Bucaramanga, pero toda mi vida he vivido en Floridablanca. Desde pequeño he compartido mi hogar con mi hermana Juana y con mis padres, Wagner y Claudia, quienes siempre han estado presentes en mi vida.</p>
+            <p>Uno de los recuerdos más felices de mi infancia son los viajes a Cúcuta, donde visitábamos a la familia de mi papá y de mi mamá. Esos momentos siempre fueron especiales porque me sentía rodeado de cariño y unión familiar.</p>
+            <p>Toda mi primaria la estudié en el colegio Nuestra Señora del Rosario de Floridablanca. Allí viví muchos momentos importantes y también hice amigos muy cercanos como Juanes y Duván, con quienes pasaba mucho tiempo jugando y riendo. Aunque ya en quinto conoci a mi mejor amigo de toda la vida llamado Alejandro</p>
+            <p>Desde niño siempre me gustaron los videojuegos y la televisión, pasatiempos que llenaban mis días de diversión y me acompañaban en mi crecimiento. Mi niñez fue tranquila y feliz, marcada por mi familia, mis amigos y esos pequeños momentos que siempre llevaré conmigo.</p>
+          </div>
+        </div>
+
 
       </div>
     </div>
