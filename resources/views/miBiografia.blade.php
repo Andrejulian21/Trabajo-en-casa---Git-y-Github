@@ -308,6 +308,19 @@
         </div>
 
 
+        <div class="col-lg-10">
+          <div class="info-card animate-on-scroll text-center">
+            <h3>
+              <i class="fas fa-user-circle me-2"></i>Sobre Mi adolescencia
+            </h3>
+            <p>Continué mis estudios en el colegio Nuestra Señora del Rosario, esta vez en la sede de bachillerato. Uno de los recuerdos más especiales de esa etapa fueron las semanas rosaristas y toda la preparación que implicaban las actividades que realizábamos, momentos que siempre quedarán en mi memoria.</p>
+            <p>Durante esos años tuve amigos cercanos, como Alejandro, y en octavo conocí a mi mejor amiga en una convención de anime, algo que marcó mucho mi adolescencia. Mis pasatiempos seguían siendo los videojuegos, pero también empecé a disfrutar del baloncesto y, por supuesto, del anime, que se convirtió en una de mis grandes aficiones.</p>
+            <p>Siempre me consideré una persona tímida, y ese rasgo me acompañó también en mi adolescencia. Aun así, viví momentos importantes, como el viaje familiar a Cancún por los 15 años de mi hermana, una experiencia única que compartimos todos juntos y que recuerdo con mucho cariño.</p>
+            <p>Mi adolescencia fue una etapa de descubrimientos, amistades y experiencias que me ayudaron a seguir creciendo y a encontrar nuevas pasiones.</p>
+          </div>
+        </div>
+
+
       </div>
     </div>
   </section>
