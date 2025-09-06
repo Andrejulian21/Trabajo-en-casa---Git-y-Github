@@ -320,6 +320,18 @@
           </div>
         </div>
 
+        <div class="col-lg-10">
+          <div class="info-card animate-on-scroll text-center">
+            <h3>
+              <i class="fas fa-user-circle me-2"></i>Actualmente que hago 
+            </h3>
+            <p>Actualmente estudio Ingeniería de Sistemas en la UNAB. Mi rutina se divide entre asistir a clases, ir al gimnasio y dedicar tiempo a estudiar por mi cuenta algunos temas que me interesan. También me gusta relajarme jugando videojuegos, una afición que me ha acompañado desde niño y que sigue siendo parte de mi día a día.</p>
+            <p>Algunas veces hago planes con mis amigos de la universidad o salgo con mi mejor amigo, lo que me permite desconectarme un poco de la rutina académica. Mis pasatiempos principales siguen siendo los videojuegos, además de compartir buenos momentos con mis amigos y disfrutar de actividades que me gustan.</p>
+            <p>Mi vida actual se mueve entre el estudio, el ejercicio, mis amistades y esos espacios personales que me ayudan a mantener un equilibrio.</p>
+          </div>
+        </div>
+
+
 
       </div>
     </div>
