@@ -7,7 +7,7 @@ Route::get('/', function () {
 })-> name("Biografia");
 
 Route::get('/expLaboral', function () {
-    return view('experiencia laboral');
+    return view('experienciaLaboral');
 })-> name("Experiencia laboral");
 
 Route::get('/habilidades', function () {
