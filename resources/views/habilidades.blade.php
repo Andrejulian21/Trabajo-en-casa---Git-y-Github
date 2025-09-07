@@ -747,6 +747,78 @@
               </div>
             </div>
           </div>
+          
+
+          <div class="skill-card strategic-card animate-on-scroll">
+            <div class="skill-header">
+              <div class="skill-icon strategic-icon">
+                <i class="fas fa-chess"></i>
+              </div>
+              <h2 class="skill-title">Pensamiento Estratégico</h2>
+              <p class="skill-subtitle">Capacidad de análisis, planificación y visión a largo plazo</p>
+            </div>
+
+            <div class="skill-content">
+              <div class="skill-description">
+                Mi fuerte base en matemáticas y mi experiencia académica me han desarrollado una capacidad analítica excepcional. Puedo identificar patrones, evaluar múltiples variables y desarrollar estrategias efectivas para resolver problemas complejos. Esta habilidad me permite anticipar desafíos y crear planes de acción estructurados que maximizan las posibilidades de éxito en cualquier proyecto o situación.
+              </div>
+
+              <div class="skill-aspects">
+                <h3 class="aspect-title">
+                  <i class="fas fa-cogs"></i>
+                  Elementos de la Gestión de Preferencias
+                </h3>
+                <div class="aspects-grid">
+                  <div class="aspect-item management-aspect">
+                    <i class="fas fa-ear-listen aspect-item-icon"></i>
+                    <h5>Escucha Activa</h5>
+                    <p>Presto atención cuidadosa a las necesidades y preferencias de diferentes personas, comprendiendo sus motivaciones y prioridades individuales.</p>
+                  </div>
+
+                  <div class="aspect-item management-aspect">
+                    <i class="fas fa-balance-scale-right aspect-item-icon"></i>
+                    <h5>Evaluación de Prioridades</h5>
+                    <p>Analizo y jerarquizo diferentes preferencias y necesidades, determinando cuáles son más importantes según el contexto y los objetivos generales.</p>
+                  </div>
+
+                  <div class="aspect-item management-aspect">
+                    <i class="fas fa-handshake aspect-item-icon"></i>
+                    <h5>Negociación y Mediación</h5>
+                    <p>Facilito acuerdos entre partes con preferencias diferentes, buscando soluciones que satisfagan a la mayoría sin comprometer objetivos clave.</p>
+                  </div>
+
+                  <div class="aspect-item management-aspect">
+                    <i class="fas fa-lightbulb aspect-item-icon"></i>
+                    <h5>Soluciones Creativas</h5>
+                    <p>Desarrollo alternativas innovadoras que pueden satisfacer múltiples preferencias simultáneamente, optimizando resultados para todos los involucrados.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="examples-section">
+                <h4 class="examples-title">
+                  <i class="fas fa-users-cog"></i>
+                  Experiencias Demostradas
+                </h4>
+                <ul class="example-list">
+                  <li class="example-item management-example">
+                    <i class="fas fa-users example-icon"></i>
+                    <div class="example-content">
+                      <strong>Proyectos Grupales Académicos:</strong>
+                      <p>Coordiné equipos de trabajo balanceando las fortalezas y preferencias de cada miembro para optimizar el rendimiento del grupo y los resultados finales.</p>
+                    </div>
+                  </li>
+                  <li class="example-item management-example">
+                    <i class="fas fa-calendar-check example-icon"></i>
+                    <div class="example-content">
+                      <strong>Organización de Actividades:</strong>
+                      <p>Planifiqué actividades grupales considerando las preferencias de todos los participantes, logrando consensos que satisficieron a la mayoría.</p>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
 
           
           
