@@ -454,6 +454,7 @@
                             camino sólido que me permita alcanzar mis sueños.</p>
                     </div>
                 </div>
+                
 
 
 
@@ -517,7 +518,7 @@
             });
         });
 
-        // Smooth scrolling para enlaces internos
+        // Smooth scrolling para enlaces internos ojo
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function(e) {
                 e.preventDefault();
