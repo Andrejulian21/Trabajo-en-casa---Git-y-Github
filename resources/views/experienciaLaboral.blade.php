@@ -537,7 +537,7 @@
                             </div>
                             <div class="experience-info flex-grow-1">
                                 <h3>Auxiliar de Bodega</h3>
-                                <div class="company-name">Tienda de Calzado</div>
+                                <div class="company-name">Tienda de Calzado (Mentira jeje)</div>
                                 <div class="experience-period">
                                     <i class="fas fa-calendar-alt me-2"></i>
                                     2022 - 2023 (1 año)
@@ -627,6 +627,104 @@
                     <div class="timeline-connector animate-on-scroll">
                         <div class="timeline-dot"></div>
                     </div>
+
+                    <div class="experience-card animate-on-scroll">
+                        <div class="experience-header">
+                            <div class="company-logo">
+                                <i class="fas fa-utensils"></i>
+                            </div>
+                            <div class="experience-info flex-grow-1">
+                                <h3>Mesero / Atención al Cliente</h3>
+                                <div class="company-name">Restaurante la fonda paisa (otra mentira jeje)</div>
+                                <div class="experience-period">
+                                    <i class="fas fa-calendar-alt me-2"></i>
+                                    2022 – 2023
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="experience-details">
+                            <div class="detail-section">
+                                <h5>
+                                    <i class="fas fa-info-circle"></i>
+                                    Descripción
+                                </h5>
+                                <p>Trabajé como mesero en un restaurante de comida típica, donde aprendí a manejar la
+                                    atención al público, la toma de pedidos y la coordinación con el equipo de cocina
+                                    para garantizar una experiencia agradable a los clientes.</p>
+                            </div>
+
+
+                            <div class="detail-section">
+                                <h5>
+                                    <i class="fas fa-tasks"></i>
+                                    Responsabilidades
+                                </h5>
+                                <div class="responsibilities-grid">
+                                    <div class="responsibility-item">
+                                        <i class="fas fa-concierge-bell"></i>
+                                        <strong>Atención al Cliente:</strong> Recibir pedidos, resolver inquietudes y
+                                        garantizar un servicio de calidad.
+                                    </div>
+                                    <div class="responsibility-item">
+                                        <i class="fas fa-list-alt"></i>
+                                        <strong>Gestión de Pedidos:</strong> Coordinar con la cocina para asegurar
+                                        tiempos de entrega rápidos y correctos.
+                                    </div>
+                                    <div class="responsibility-item">
+                                        <i class="fas fa-cash-register"></i>
+                                        <strong>Manejo de Caja:</strong> Cobro de cuentas y control de pagos con
+                                        diferentes métodos.
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="detail-section">
+                                <h5>
+                                    <i class="fas fa-lightbulb"></i>
+                                    Habilidades Desarrolladas
+                                </h5>
+                                <div class="skills-gained">
+                                    <span class="skill-tag">Atención al Cliente</span>
+                                    <span class="skill-tag">Trabajo en Equipo</span>
+                                    <span class="skill-tag">Manejo de Efectivo</span>
+                                    <span class="skill-tag">Comunicación</span>
+                                    <span class="skill-tag">Resolución de Problemas</span>
+                                    <span class="skill-tag">Organización</span>
+                                </div>
+                            </div>
+
+                            <div class="detail-section">
+                                <h5>
+                                    <i class="fas fa-trophy"></i>
+                                    Logros
+                                </h5>
+                                <ul class="achievements-list">
+                                    <li>
+                                        <i class="fas fa-star"></i>
+                                        <strong>Reconocimiento del Cliente:</strong> Recibí felicitaciones frecuentes
+                                        por la atención y amabilidad en el servicio.
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-stopwatch"></i>
+                                        <strong>Eficiencia:</strong> Reduje los tiempos de espera de los pedidos en
+                                        horas de alta demanda.
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-users"></i>
+                                        <strong>Trabajo en Equipo:</strong> Coordinación eficaz con cocina y otros
+                                        meseros para mejorar el flujo de trabajo.
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="timeline-connector animate-on-scroll">
+                        <div class="timeline-dot"></div>
+                    </div>
+
 
                 </div>
             </div>
